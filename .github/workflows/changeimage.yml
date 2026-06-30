@@ -2,9 +2,9 @@ name: Change README image by weekday
 
 on:
   schedule:
-    # 月〜金の 00:00 JST に実行（sat/sun は同じ画像なのでスケジュール不要）。
-    # JST 00:00 = UTC 15:00 previous day. Runs Mon-Fri at JST midnight.
-    - cron: "0 15 * * 0-4"
+    # 毎日 00:00 JST に実行。
+    # JST 00:00 = UTC 15:00 previous day.
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 permissions:
@@ -50,14 +50,14 @@ jobs:
           with open(readme_path, "r", encoding="utf-8") as f:
               content = f.read()
 
-          updated = re.sub(
+          updated, count = re.subn(
               r"<!-- PROFILE_IMAGE_START -->.*?<!-- PROFILE_IMAGE_END -->",
               replacement,
               content,
               flags=re.DOTALL,
           )
 
-          if updated == content:
+          if count == 0:
               raise SystemExit("PROFILE_IMAGE block not found in README.md")
 
           with open(readme_path, "w", encoding="utf-8", newline="\n") as f:
