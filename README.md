@@ -4,7 +4,7 @@
 </p>
 <!-- PROFILE_IMAGE_END -->
 
-## Hi there 👋
+## ここの画像は曜日ごとに更新されます。。。 👋
 
 <!--
 **sekiya-sato/sekiya-sato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
