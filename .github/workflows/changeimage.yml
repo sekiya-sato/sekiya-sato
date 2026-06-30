@@ -42,7 +42,7 @@ jobs:
           replacement = (
               "<!-- PROFILE_IMAGE_START -->\n"
               "<p align=\"center\">\n"
-              f"  <img src=\"{image_path}\" alt=\"プロフィール表示用画像 ({weekday})\" width=\"220\" />\n"
+              f"<img src=\"{image_path}\" alt=\"プロフィール表示用画像 ({weekday})\" width=\"220\" />\n"
               "</p>\n"
               "<!-- PROFILE_IMAGE_END -->"
           )

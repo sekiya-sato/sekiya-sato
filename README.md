@@ -1,8 +1,10 @@
 <!-- PROFILE_IMAGE_START -->
 <p align="center">
-  <img src="./images/github-logo-gemini-hightention.jpg" alt="プロフィール表示用画像 (tue)" width="220" />
+<img src="./images/github-logo-gemini-hightention.jpg" alt="プロフィール表示用画像 (tue)" width="220" />
 </p>
 <!-- PROFILE_IMAGE_END -->
+
+<h1 align="center">こんにちは 👋、sekiya-sato です</h1>
 
 ## ここの画像は曜日ごとに更新されます。。。 👋
 
