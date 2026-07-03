@@ -30,12 +30,12 @@ jobs:
 
           image_map = {
               "mon": "./images/github-logo-gemini-happy.jpg",
-              "tue": "./images/github-logo-gemini-hightention.jpg",
-              "wed": "./images/github-logo-gemini-normal.jpg",
-              "thu": "./images/github-logo-gemini-stressful.jpg",
-              "fri": "./images/github-logo-gemini-hightention.jpg",
-              "sat": "./images/github-logo-000-origin.jpg",
-              "sun": "./images/github-logo-000-origin.jpg",
+              "tue": "./images/github-logo-gemini-ikeike.jpg",
+              "wed": "./images/github-logo-gemini-ikeike2.jpg",
+              "thu": "./images/github-logo-gemini-normal.jpg",
+              "fri": "./images/github-logo-gemini-stressful.jpg",
+              "sat": "./images/github-logo-gemini-sabori.jpg",
+              "sun": "./images/github-logo-gemini-sleep.jpg",
           }
 
           image_path = image_map[weekday]
