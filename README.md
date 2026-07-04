@@ -4,9 +4,14 @@
 </p>
 <!-- PROFILE_IMAGE_END -->
 
-<h1 align="center">こんにちは 👋、sekiya-sato です</h1>
+## 🎌 ここの画像は曜日ごとに更新されます🗾🎵
 
-## ここの画像は曜日ごとに更新されます。。。 👋
+---
+
+## 💻 技術スタック:
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 <!--
 **sekiya-sato/sekiya-sato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
