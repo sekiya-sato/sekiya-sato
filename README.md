@@ -23,11 +23,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sekiya-sato&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekiya-sato&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekiya-sato&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
