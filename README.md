@@ -1,6 +1,6 @@
 <!-- PROFILE_IMAGE_START -->
 <p align="center">
-<img src="./images/github-logo-gemini-normal.jpg" alt="プロフィール表示用画像 (thu)" width="220" />
+<img src="./images/github-logo-gemini-sabori.jpg" alt="プロフィール表示用画像 (sat)" width="220" />
 </p>
 <!-- PROFILE_IMAGE_END -->
 
