@@ -1,6 +1,6 @@
 <!-- PROFILE_IMAGE_START -->
 <p align="center">
-<img src="./images/github-logo-gemini-sleep.jpg" alt="プロフィール表示用画像 (sun)" width="220" />
+<img src="./images/github-logo-gemini-happy.jpg" alt="プロフィール表示用画像 (mon)" width="220" />
 </p>
 <!-- PROFILE_IMAGE_END -->
 
